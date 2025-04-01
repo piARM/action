@@ -1,0 +1,27 @@
+        color: #333;
+        text-decoration: none;
+        cursor: pointer;
+        width: 100%;
+        border-radius: 10px;
+        background: #f0f0f0;
+        margin: 4px 0;
+      }
+      .accounts__action-button.disconnect:hover {
+        background: #e0e0e0;
+      }
+      .accounts__action-button svg {
+        margin-right: 8px;
+      }
+    </style>
+  </head>
+  <body>
+    <noscript>
+      <strong
+        >We're sorry but Enkrypt doesn't work properly without JavaScript
+        enabled. Please enable it to continue.</strong
+      >
+    </noscript>
+    <div id="app"></div>
+    <script src="/scripts/cold-wallet.js"></script>
+  </body>
+</html>

@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <link rel="icon" href="/favicon.ico" />
+    <title>Enkrypt Extension - Everything in the blockchain made easy</title>
+    <script type="module" crossorigin src="assets/action-Cqr5PVSr.js"></script>
+    <link rel="modulepreload" crossorigin href="assets/accounts-C17PWuf7.js">
+    <link rel="modulepreload" crossorigin href="assets/filters-DpIQjNbZ.js">
+    <link rel="modulepreload" crossorigin href="assets/index-ofqtoIxS.js">
+    <link rel="modulepreload" crossorigin href="assets/index-CuzJ-7jH.js">
+    <link rel="modulepreload" crossorigin href="assets/get-priority-fees-6stzn_3o.js">
+    <link rel="modulepreload" crossorigin href="assets/index-DQj9q6e5.js">
+    <link rel="modulepreload" crossorigin href="assets/logo-big-DOHeN0tW.js">
+    <link rel="stylesheet" crossorigin href="assets/filters-CKGvPIHl.css">
+    <link rel="stylesheet" crossorigin href="assets/get-priority-fees-BcPbXeDq.css">
+    <link rel="stylesheet" crossorigin href="assets/logo-big-_uXf8S4V.css">
+    <link rel="stylesheet" crossorigin href="assets/action-BLpn1t9u.css">
+    <style>
+      .cold-wallets-section {
+        padding: 24px 12px 0 60px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 16px;
